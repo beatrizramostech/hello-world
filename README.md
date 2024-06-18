@@ -23,11 +23,13 @@ Aqui está um exemplo clássico de um programa "Hello World" em várias linguage
 ### JavaScript
 
 ```javascript
-console.log("Hello, World!");```
+console.log("Hello, World!");
+```
 
 ### Python
 
-```print("Hello, World!")```
+```print("Hello, World!")
+```
 
 ### Java
 
@@ -35,7 +37,8 @@ console.log("Hello, World!");```
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
-}```
+}
+```
 
 ### C
 
@@ -44,4 +47,5 @@ console.log("Hello, World!");```
 int main() {
     printf("Hello, World!\n");
     return 0;
-}```
+}
+```
