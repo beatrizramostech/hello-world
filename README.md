@@ -28,12 +28,14 @@ console.log("Hello, World!");
 
 ### Python
 
-```print("Hello, World!")
+```python
+print("Hello, World!")
 ```
 
 ### Java
 
-```public class HelloWorld {
+```java
+public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hello, World!");
     }
@@ -42,7 +44,8 @@ console.log("Hello, World!");
 
 ### C
 
-```#include <stdio.h>
+```c
+#include <stdio.h>
 
 int main() {
     printf("Hello, World!\n");
